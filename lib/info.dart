@@ -1,5 +1,6 @@
-import 'package:cep/endereco.dart';
 import 'package:flutter/material.dart';
+
+import 'endereco.dart';
 
 class Info extends StatefulWidget {
   Endereco endereco;

@@ -1,9 +1,10 @@
-import 'package:cep/endereco.dart';
-import 'package:cep/info.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert' as convert;
+
+import 'endereco.dart';
+import 'info.dart';
 
 class Home extends StatefulWidget {
   @override
